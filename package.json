@@ -1,0 +1,24 @@
+{
+  "name": "astro-ui-components",
+  "version": "0.0.1",
+  "description": "Simple styled ui cmoponents for Astro",
+  "main": "components.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonorn82/astro-ui-components.git"
+  },
+  "keywords": [
+    "Astro",
+    "UI",
+    "Components"
+  ],
+  "author": "Jon Orn Omarsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonorn82/astro-ui-components/issues"
+  },
+  "homepage": "https://github.com/jonorn82/astro-ui-components#readme"
+}
